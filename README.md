@@ -19,6 +19,8 @@ Swing
 To implement database connectivity using JDBC
 To perform CRUD operations on student data
 To provide a simple and efficient user interface
+
+
 Technologies Used:
 Programming Language: Java
 GUI Framework: Swing (AWT)
