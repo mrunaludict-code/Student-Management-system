@@ -1,6 +1,5 @@
 # Student-Management-system
-Abstract
-
+Abstract:
 The Student Record Management System is 
 a desktop-based application developed 
 using Java (Swing) and MySQL database. The 
