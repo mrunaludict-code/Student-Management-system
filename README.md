@@ -11,6 +11,8 @@ database operations such as Add, Update,
 Clear and Delete (CRUD) student details. It 
 reduces manual work, improves accuracy, 
 and ensures secure storage of data.
+
+
 Objectives:
 To develop a GUI-based application using Java 
 Swing
@@ -22,6 +24,8 @@ Programming Language: Java
 GUI Framework: Swing (AWT)
 Database: MySQL
 Connectivity: JDBC
+
+
 1. Presentation Layer
 User interacts with GUI (buttons, 
 text fields)
@@ -35,6 +39,8 @@ MySQL
 Stores student records in table 
 format
 Handles data storage and retrieval
+
+
 8. Applications
 Used in schools and colleges to 
 manage student data
@@ -42,6 +48,7 @@ Helps in maintaining records digitally
 Reduces paperwork and manual errors
 Can be extended for attendance, 
 marks, etc.
+
 The Student Record Management System 
 successfully demonstrates the use of Java 
 Swing for GUI and JDBC for database 
